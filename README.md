@@ -13,4 +13,4 @@
 
 ### Interests
 ![react](https://img.shields.io/badge/Three.js-7E4DD2?style=flat-square&logo=Three.js&logoColor=white)
-![react](https://img.shields.io/badge/Rust-EE2B24?style=flat-square&logo=Rust&logoColor=white)
+![react](https://img.shields.io/badge/Rust-EE2B24?style=flat-square&logo=Rust&logoColor=black)
