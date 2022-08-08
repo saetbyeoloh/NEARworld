@@ -1,7 +1,6 @@
-# profile
-Education: Computer Software major <br />
-Location: South Korea <br />
-
+### Profile
+**Education:** Computer Software major <br />
+**Location:** South Korea
 ### Blog
 <a href="https://velog.io/@nearworld">![Blog](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hye_rin)</a>
 
@@ -13,3 +12,5 @@ Location: South Korea <br />
 ![react](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ### Interests
+![react](https://img.shields.io/badge/Three.js-7E4DD2?style=flat-square&logo=Three.js&logoColor=white)
+![react](https://img.shields.io/badge/Rust-EE2B24?style=flat-square&logo=Rust&logoColor=white)
